@@ -1,6 +1,6 @@
 ### Greetings internet people 👋
 
-⚡ Fun facts: 
+🐳 Fun facts: 
 - Blue whales are the largest animal ever known to have lived on Earth.
   These magnificent marine mammals rule the oceans at up to 30 m and
   upwards to 200.000 tons. Their tongue alone can weigh as much as an
