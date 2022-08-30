@@ -1,7 +1,8 @@
-### Greetings internet
+# Greetings internet
 
-![alt text](https://s.hdnux.com/photos/01/26/56/60/22735904/3/rawImage.jpg)
-
+<p align="center">
+  <img src="https://s.hdnux.com/photos/01/26/56/60/22735904/3/rawImage.jpg" width="500" height="290"/>
+</p>
 
 🐳 Fun facts 🐳 
 - Blue whales are the largest animal ever known to have lived on Earth.
