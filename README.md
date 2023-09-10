@@ -1,4 +1,4 @@
-# Greetings internet
+# Welcome to the internet
 
 <p align="center">
   <img src="https://s.hdnux.com/photos/01/26/56/60/22735904/3/rawImage.jpg" width="500" height="290"/>
